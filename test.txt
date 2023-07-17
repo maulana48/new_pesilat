@@ -4,4 +4,8 @@ coba untuk pull / push
 =======
 file baru lagi (local) coba ngubah yang baru
 test (edited yandi)
+<<<<<<< HEAD
 >>>>>>> 3f70d0ce4f3983cbc22aec8695b7b3660054555d
+=======
+iksan engedit
+>>>>>>> a232991269498a9a18985b0c388fd8c6c866f3a3

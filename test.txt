@@ -1,1 +1,9 @@
-file baru (vikhrama)
+
+
+iksan engedit
+>>>>>>> a232991269498a9a18985b0c388fd8c6c866f3a3
+=======
+iksan engedit
+adding ikhsan
+
+>>>>>>> 279bd0c (adding ihsan)

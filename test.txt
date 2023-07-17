@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 file baru lagi (local)
 coba untuk pull / push
+=======
+file baru lagi (local) coba ngubah yang baru
+test (edited yandi)
+>>>>>>> 3f70d0ce4f3983cbc22aec8695b7b3660054555d
